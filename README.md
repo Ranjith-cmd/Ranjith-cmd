@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ranjith-cmd
+- 👋 Hi, I’m Ranjith
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning DSA and Web Development
 
